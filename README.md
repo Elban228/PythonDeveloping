@@ -1,3 +1,3 @@
 # PythonDeveloping
 bobik yema chotinko
- Ссылка на главный репозиторий: https://github.com/Drugoi-Polz/IservNG
+Ссылка на главный репозиторий: https://github.com/Drugoi-Polz/IservNG
